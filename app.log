@@ -898,3 +898,22 @@
 2025-10-28 12:37:25,074 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:37:25] "GET /api/pontos HTTP/1.1" 200 -
 2025-10-28 12:37:25,075 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:37:25] "GET /api/estatisticas HTTP/1.1" 200 -
 2025-10-28 12:37:25,083 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:37:25] "GET /static/img/ficon.png HTTP/1.1" 200 -
+2025-10-28 12:57:31,000 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 12:57:31,013 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://172.29.126.49:8083
+2025-10-28 12:57:31,013 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-28 12:57:31,013 - werkzeug - INFO -  * Restarting with stat
+2025-10-28 12:57:31,134 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 12:57:31,148 - werkzeug - WARNING -  * Debugger is active!
+2025-10-28 12:57:31,151 - werkzeug - INFO -  * Debugger PIN: 945-814-733
+2025-10-28 12:57:35,467 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 12:57:35,476 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "GET / HTTP/1.1" 200 -
+2025-10-28 12:57:35,537 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 12:57:35,538 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 12:57:35,628 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 12:57:35,628 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 12:57:35,628 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 12:57:35,629 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 12:57:35,639 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 12:57:35] "[36mGET /static/img/ficon.png HTTP/1.1[0m" 304 -

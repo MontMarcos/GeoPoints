@@ -3,6 +3,10 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+def formatar_distancia(distancia):
+    if distancia >= 1000:
+        return f"{distancia/1000:.2f} km"
+    return f"{distancia:.0f}m"
 
 def calcular_distancia_haversine(lat1, lon1, lat2, lon2):
     R = 6371000
