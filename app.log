@@ -817,3 +817,21 @@
 2025-10-28 10:33:41,193 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
 2025-10-28 10:33:41,194 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET /api/estatisticas HTTP/1.1" 200 -
 2025-10-28 10:33:41,194 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:45:06,905 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 10:45:06,917 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://172.29.126.49:8083
+2025-10-28 10:45:06,917 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-28 10:45:06,917 - werkzeug - INFO -  * Restarting with stat
+2025-10-28 10:45:07,028 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 10:45:07,037 - werkzeug - WARNING -  * Debugger is active!
+2025-10-28 10:45:07,039 - werkzeug - INFO -  * Debugger PIN: 124-190-236
+2025-10-28 10:45:15,401 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:45:15,410 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:45:15] "GET / HTTP/1.1" 200 -
+2025-10-28 10:45:15,439 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:45:15] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:45:15,449 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:45:15] "GET /static/js/mapa.js HTTP/1.1" 200 -
+2025-10-28 10:45:15,486 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:45:15,487 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:45:15] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:45:15,487 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:45:15,488 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:45:15] "GET /api/estatisticas HTTP/1.1" 200 -
