@@ -4,6 +4,8 @@ Este repositório contém o código-fonte para o **GeoPoints PF**, um sistema de
 
 O projeto simula uma ferramenta interna utilizada pela Polícia Federal para georreferenciamento e análise de dados espaciais.
 
+![Descrição da Imagem](https://cdn.discordapp.com/attachments/1206426783570862134/1432765273399885925/image.png?ex=69023e24&is=6900eca4&hm=d1f18715466036b70e6a495c5bb022fe5b94f1716048111a4473fd93fedc9ce7)
+
 ## **🌟 Melhoria Implementada: Edição de Pontos de Interesse no Mapa**
 
 Para esta candidatura, a funcionalidade adicionada foi a **Edição de Pontos de Interesse (POIs) diretamente pelo *popup* do mapa**.
