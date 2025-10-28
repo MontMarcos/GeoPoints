@@ -1,0 +1,819 @@
+2025-10-27 22:51:13,990 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:51:14,002 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 22:51:14,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 22:51:14,003 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:51:14,107 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:51:14,116 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:51:14,118 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:51:17,844 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 22:51:17,856 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:51:17] "GET / HTTP/1.1" 200 -
+2025-10-27 22:51:17,880 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:51:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 22:51:17,881 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:51:17] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 22:51:17,919 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 22:51:17,919 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 22:51:17,920 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:51:17] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 22:51:17,920 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:51:17] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 22:52:28,359 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:52:28,400 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:52:28,507 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:52:28,517 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:52:28,518 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:52:34,539 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:52:34,579 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:52:34,703 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:52:34,712 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:52:34,714 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:52:37,726 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:52:37,762 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:52:37,875 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:52:37,884 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:52:37,886 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:52:43,906 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:52:43,936 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:52:44,047 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:52:44,056 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:52:44,058 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:52:45,064 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:52:45,107 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:52:45,217 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:52:45,226 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:52:45,229 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:53:09,865 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:53:09,877 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 22:53:09,877 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 22:53:09,877 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:53:09,993 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:53:10,002 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:53:10,004 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:53:13,943 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 22:53:13,955 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:53:13] "GET / HTTP/1.1" 200 -
+2025-10-27 22:53:13,995 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:53:13] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 22:53:13,996 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:53:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 22:53:14,053 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 22:53:14,053 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:53:14] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 22:53:14,054 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 22:53:14,055 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:53:14] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 22:53:32,089 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/utils/exemplo/__init__.py', reloading
+2025-10-27 22:53:32,132 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:53:32,253 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:53:32,263 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:53:32,265 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:53:44,302 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/tests/testdata.py', reloading
+2025-10-27 22:53:44,343 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:53:44,462 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:53:44,478 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:53:44,480 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:54:30,947 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:54:30] "[33mGET /api HTTP/1.1[0m" 404 -
+2025-10-27 22:54:35,714 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 22:54:35,715 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:54:35] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 22:54:47,481 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 22:54:47,481 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:54:47] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 22:55:05,258 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:05] "[31m[1mGET /api/pontos/proximos HTTP/1.1[0m" 400 -
+2025-10-27 22:55:22,466 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 22:55:22,473 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:22] "GET / HTTP/1.1" 200 -
+2025-10-27 22:55:22,516 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 22:55:22,517 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:22] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 22:55:22,550 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 22:55:22,550 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 22:55:22,551 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:22] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 22:55:22,552 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:22] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 22:55:35,757 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 22:55:35,758 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 22:55:35] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 22:56:03,929 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/route.py', reloading
+2025-10-27 22:56:03,974 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:56:04,097 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:56:04,107 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:56:04,108 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:59:56,761 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/controller/controller.py', reloading
+2025-10-27 22:59:56,803 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:59:56,912 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:59:56,923 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:59:56,925 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 22:59:57,934 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/controller/controller.py', reloading
+2025-10-27 22:59:57,967 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 22:59:58,090 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 22:59:58,100 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 22:59:58,102 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:00:03,120 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/controller/controller.py', reloading
+2025-10-27 23:00:03,164 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:00:03,274 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:00:03,284 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:00:03,286 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:00:11,307 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/controller/controller.py', reloading
+2025-10-27 23:00:11,346 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:00:11,463 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:00:11,473 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:00:11,475 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:00:29,532 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/tests/testdata.py', reloading
+2025-10-27 23:00:29,593 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:00:29,716 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:00:29,725 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:00:29,728 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:00:31,739 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/tests/testdata.py', reloading
+2025-10-27 23:00:31,774 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:00:31,883 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:00:31,892 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:00:31,894 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:00:33,906 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/tests/testdata.py', reloading
+2025-10-27 23:00:33,945 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:00:34,061 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:00:34,070 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:00:34,072 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:20:29,029 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:20:29,042 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:20:29,043 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:20:29,044 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:20:29,153 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:20:29,164 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:20:29,166 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:20:42,099 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:20:42,112 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:42] "GET / HTTP/1.1" 200 -
+2025-10-27 23:20:42,161 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:20:42,162 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:42] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:20:42,192 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:20:42,192 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:42] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:20:42,192 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:20:42,193 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:42] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:20:52,325 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:20:52,325 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:52] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:20:55,714 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:20:55,715 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:20:55] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:22:37,552 - werkzeug - INFO -  * Detected change in '/home/mont/selecao_estagio_2025_2/data/data.py', reloading
+2025-10-27 23:22:37,595 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:23:21,066 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:23:21,078 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:23:21,078 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:23:21,078 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:23:21,189 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:23:21,198 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:23:21,200 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:23:24,054 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:23:24,067 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:24] "GET / HTTP/1.1" 200 -
+2025-10-27 23:23:24,100 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:24] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-27 23:23:24,104 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:24] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:23:24,139 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:23:24,140 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:24] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:23:24,141 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:23:24,141 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:24] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:23:25,607 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:23:25,608 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:25] "GET / HTTP/1.1" 200 -
+2025-10-27 23:23:25,635 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:23:25,636 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:25] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:23:25,679 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:23:25,680 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:25] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:23:25,682 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:23:25,683 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:25] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:23:30,441 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:23:30,441 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:30] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:23:35,220 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:35] "[33mGET /api/es] HTTP/1.1[0m" 404 -
+2025-10-27 23:23:38,630 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:23:38,630 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:23:51,169 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:51] "[31m[1mGET /api/pontos/proximos HTTP/1.1[0m" 400 -
+2025-10-27 23:23:57,783 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:23:57,784 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:57] "GET / HTTP/1.1" 200 -
+2025-10-27 23:23:57,820 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:23:57,823 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:57] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:23:57,866 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:23:57,867 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:23:57,867 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:57] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:23:57,867 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:23:57] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:24:22,182 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:24:22,193 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:24:22,193 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:24:22,194 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:24:22,303 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:24:22,312 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:24:22,314 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:24:25,938 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:24:25,948 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:25] "GET / HTTP/1.1" 200 -
+2025-10-27 23:24:25,993 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:24:25,994 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:25] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:24:26,057 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:24:26,058 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:24:26,058 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:24:26,059 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:24:26,814 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:24:26,814 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "GET / HTTP/1.1" 200 -
+2025-10-27 23:24:26,848 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:24:26,850 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:24:26,904 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:24:26,907 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:24:26,908 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:24:26,908 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:26] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:24:27,372 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:24:27,373 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:27] "GET / HTTP/1.1" 200 -
+2025-10-27 23:24:27,402 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:24:27,403 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:27] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:24:27,444 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:24:27,444 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:27] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:24:27,444 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:24:27,445 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:27] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:24:34,363 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:24:34,367 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:24:34] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:27:17,757 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:27:17,769 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:27:17,769 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:27:17,770 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:27:17,871 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:27:17,880 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:27:17,882 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:27:22,007 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:27:22,025 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET / HTTP/1.1" 200 -
+2025-10-27 23:27:22,073 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:27:22,082 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:27:22,084 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-27 23:27:22,142 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:27:22,142 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:27:22,143 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:27:22,143 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:27:22,724 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:27:22,725 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET / HTTP/1.1" 200 -
+2025-10-27 23:27:22,754 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:27:22,763 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:27:22,823 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:27:22,849 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:27:22,849 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:27:22,850 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:27:22,851 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:22] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:27:23,276 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:27:23,277 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "GET / HTTP/1.1" 200 -
+2025-10-27 23:27:23,310 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:27:23,331 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:27:23,333 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:27:23,382 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:27:23,383 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:27:23,383 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:27:23,383 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:23] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:27:27,236 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:27:27,237 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET / HTTP/1.1" 200 -
+2025-10-27 23:27:27,274 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:27:27,275 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:27:27,322 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:27:27,322 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:27:27,323 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:27:27,323 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:27:27,866 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:27:27,867 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET / HTTP/1.1" 200 -
+2025-10-27 23:27:27,895 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:27:27,896 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:27:27,922 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:27:27,923 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:27:27,924 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:27:27,924 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:27:27] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:28:37,872 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:28:37,880 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:28:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:28:37,915 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:28:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:28:37,915 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:28:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:28:38,278 - controller.controller - INFO - Listagem de pontos: 1 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:28:38,279 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:28:38,279 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:28:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:28:38,279 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:28:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:29:26,958 - controller.controller - INFO - Ponto adicionado: ID=2, Nome='Shopping Brasília', Categoria=local_ocorrencia
+2025-10-27 23:29:26,959 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:29:26] "[35m[1mPOST /api/pontos HTTP/1.1[0m" 201 -
+2025-10-27 23:29:26,967 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:29:26,968 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:29:26] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:22,985 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:22,985 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:22] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:23,022 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-27 23:31:23,026 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:23,062 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:23,062 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:23,062 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:23,062 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:23,935 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:23,936 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:23,971 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:23,972 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:23] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:24,055 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:24,056 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:24] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:24,057 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:24,058 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:24] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:32,053 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:31:32,064 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:31:32,064 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:31:32,065 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:31:32,168 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:31:32,176 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:31:32,178 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:31:35,315 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:35,323 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:35] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:35,358 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:35] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:35,358 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:35,404 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:35,404 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:35,405 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:35] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:35,405 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:35] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:36,019 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:36,020 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:36,051 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,052 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,094 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:36,094 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:36,095 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:36,096 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:36,471 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:36,472 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:36,507 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,508 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,550 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:36,550 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:36,550 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:36,551 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:36,658 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:36,659 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:36,692 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,694 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,741 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:36,741 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:36,742 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:36,742 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:36,873 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:36,874 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:36,906 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,909 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:36,942 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:36,942 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:36,943 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:36,943 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:36] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,086 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,087 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:37,111 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,112 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,141 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:37,141 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:37,141 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:37,142 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,277 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,278 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:37,310 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,312 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,352 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:37,352 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:37,352 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:37,353 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,449 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,450 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:37,483 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,484 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,519 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:37,519 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:37,519 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:37,520 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,636 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,636 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:37,666 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,666 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,692 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:37,692 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:37,693 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,693 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:37,812 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,813 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:37,844 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,845 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:37,883 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:37,883 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:37,883 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:37,884 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:37,986 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:37,987 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:37] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,030 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,031 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,083 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,083 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,084 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,085 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:38,171 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:38,172 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,207 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,208 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,255 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,255 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,256 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,256 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:38,354 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:38,355 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,390 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,392 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,434 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,434 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:38,434 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,435 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,520 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:38,521 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,558 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,559 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,599 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,600 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,600 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:38,601 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,685 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:38,686 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,728 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,729 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,765 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,765 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,766 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:38,767 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,879 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:38,880 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:38,923 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,924 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:38,959 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:38,959 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:38,959 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:38,960 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:31:39,042 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:31:39,043 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:39] "GET / HTTP/1.1" 200 -
+2025-10-27 23:31:39,072 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:39] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:31:39,073 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:31:39,115 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:31:39,116 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:39] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:31:39,116 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:31:39,117 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:31:39] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:32:20,828 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:32:20,839 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:32:20,839 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:32:20,840 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:32:20,942 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:32:20,951 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:32:20,953 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:32:25,641 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:32:25,652 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:25] "GET / HTTP/1.1" 200 -
+2025-10-27 23:32:25,683 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:25] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:32:25,683 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:25] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-27 23:32:25,717 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:32:25,717 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:32:25,718 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:25] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:32:25,719 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:25] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:32:26,318 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:32:26,319 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:26] "GET / HTTP/1.1" 200 -
+2025-10-27 23:32:26,348 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:32:26,349 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:26] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:32:26,380 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:32:26,381 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:26] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:32:26,383 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:32:26,384 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:32:26] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:34:00,352 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:34:00,353 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:00] "GET / HTTP/1.1" 200 -
+2025-10-27 23:34:00,384 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:34:00,386 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:00] "GET /static/js/mapa.js HTTP/1.1" 200 -
+2025-10-27 23:34:00,411 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:34:00,413 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:00] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:34:00,413 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:34:00,414 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:00] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:34:05,955 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:05] "[33mGET /api/export/geojson HTTP/1.1[0m" 404 -
+2025-10-27 23:34:07,117 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:07] "[33mGET /api/export/geojson HTTP/1.1[0m" 404 -
+2025-10-27 23:34:10,848 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:34:10,860 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:34:10,860 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:34:10,860 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:34:10,973 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:34:10,982 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:34:10,984 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:34:16,905 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:16] "[33mGET /api/export/geojson HTTP/1.1[0m" 404 -
+2025-10-27 23:34:35,538 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:34:35,546 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:35] "GET / HTTP/1.1" 200 -
+2025-10-27 23:34:35,590 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:35] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:34:35,591 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:34:35,636 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:34:35,637 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:35] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:34:35,638 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:34:35,638 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:35] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:34:39,352 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:34:39,353 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:39] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:34:42,530 - controller.controller - INFO - Listagem de pontos: 0 encontrado(s) - Filtros: categoria=posto_fronteira, busca=None
+2025-10-27 23:34:42,531 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:42] "GET /api/pontos?categoria=posto_fronteira HTTP/1.1" 200 -
+2025-10-27 23:34:43,630 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:34:43,631 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:43] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:34:51,298 - controller.controller - INFO - Listagem de pontos: 0 encontrado(s) - Filtros: categoria=delegacia, busca=None
+2025-10-27 23:34:51,298 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:51] "GET /api/pontos?categoria=delegacia HTTP/1.1" 200 -
+2025-10-27 23:34:54,198 - controller.controller - INFO - Listagem de pontos: 2 encontrado(s) - Filtros: categoria=local_ocorrencia, busca=None
+2025-10-27 23:34:54,198 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:34:54] "GET /api/pontos?categoria=local_ocorrencia HTTP/1.1" 200 -
+2025-10-27 23:35:12,382 - controller.controller - INFO - Ponto adicionado: ID=3, Nome='Test', Categoria=delegacia
+2025-10-27 23:35:12,383 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:12] "[35m[1mPOST /api/pontos HTTP/1.1[0m" 201 -
+2025-10-27 23:35:12,395 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:35:12,396 - controller.controller - INFO - Listagem de pontos: 3 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:35:12,396 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:12] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:35:12,397 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:12] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:35:30,834 - controller.controller - INFO - Ponto adicionado: ID=4, Nome='Aqui', Categoria=outros
+2025-10-27 23:35:30,835 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:30] "[35m[1mPOST /api/pontos HTTP/1.1[0m" 201 -
+2025-10-27 23:35:30,844 - controller.controller - INFO - Listagem de pontos: 4 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:35:30,844 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:35:30,845 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:30] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:35:30,845 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:30] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:35:42,078 - controller.controller - INFO - Ponto adicionado: ID=5, Nome='Here', Categoria=posto_avancado
+2025-10-27 23:35:42,079 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:42] "[35m[1mPOST /api/pontos HTTP/1.1[0m" 201 -
+2025-10-27 23:35:42,089 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:35:42,090 - controller.controller - INFO - Listagem de pontos: 5 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:35:42,090 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:42] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:35:42,091 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:42] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:35:52,733 - controller.controller - INFO - Ponto adicionado: ID=6, Nome='Eu', Categoria=posto_fronteira
+2025-10-27 23:35:52,734 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:52] "[35m[1mPOST /api/pontos HTTP/1.1[0m" 201 -
+2025-10-27 23:35:52,742 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:35:52,742 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:35:52,743 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:52] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:35:52,744 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:52] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:35:55,841 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:35:55,842 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:35:55] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:36:00,954 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:36:00] "[33mGET /api/export/geojson HTTP/1.1[0m" 404 -
+2025-10-27 23:36:16,939 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:36:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:36:16,946 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:36:16] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:40:56,062 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:40:56,074 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:40:56,074 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:40:56,074 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:40:56,176 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:40:56,185 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:40:56,187 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:40:59,484 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:40:59,496 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "GET / HTTP/1.1" 200 -
+2025-10-27 23:40:59,542 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-27 23:40:59,566 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:40:59,568 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "GET /static/js/mapa.js HTTP/1.1" 200 -
+2025-10-27 23:40:59,661 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:40:59,661 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:40:59,661 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:40:59,661 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:40:59] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:41:17,350 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:41:17,361 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://192.168.1.51:8083
+2025-10-27 23:41:17,361 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 23:41:17,362 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 23:41:17,466 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-27 23:41:17,475 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 23:41:17,476 - werkzeug - INFO -  * Debugger PIN: 540-921-325
+2025-10-27 23:41:21,175 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:41:21,185 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET / HTTP/1.1" 200 -
+2025-10-27 23:41:21,224 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:41:21,226 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:41:21,271 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:41:21,272 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:41:21,273 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:41:21,274 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:41:21,824 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:41:21,825 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET / HTTP/1.1" 200 -
+2025-10-27 23:41:21,850 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:41:21,853 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:41:21,877 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:41:21,878 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:41:21,878 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:41:21,880 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:21] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:41:22,344 - controller.controller - INFO - Renderizando página do mapa
+2025-10-27 23:41:22,345 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:22] "GET / HTTP/1.1" 200 -
+2025-10-27 23:41:22,379 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-27 23:41:22,382 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:22] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-27 23:41:22,415 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-27 23:41:22,416 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:22] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-27 23:41:22,416 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-27 23:41:22,417 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:22] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-27 23:41:27,149 - controller.controller - INFO - GeoJSON exportado: 6 pontos
+2025-10-27 23:41:27,149 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 23:41:27] "GET /api/pontos/export/geojson HTTP/1.1" 200 -
+2025-10-28 09:38:07,640 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 09:38:07,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://172.29.125.119:8083
+2025-10-28 09:38:07,664 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-28 09:38:07,664 - werkzeug - INFO -  * Restarting with stat
+2025-10-28 09:38:07,765 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 09:38:07,774 - werkzeug - WARNING -  * Debugger is active!
+2025-10-28 09:38:07,779 - werkzeug - INFO -  * Debugger PIN: 773-995-403
+2025-10-28 09:38:14,603 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 09:38:14,619 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:14] "GET / HTTP/1.1" 200 -
+2025-10-28 09:38:14,671 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 09:38:14,671 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:14] "GET /static/js/mapa.js HTTP/1.1" 200 -
+2025-10-28 09:38:19,892 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 09:38:19,893 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 09:38:19,894 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:19] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 09:38:19,894 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:19] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 09:38:24,953 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:38:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-28 09:44:41,755 - controller.controller - INFO - GeoJSON exportado: 6 pontos
+2025-10-28 09:44:41,756 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:44:41] "GET /api/pontos/export/geojson HTTP/1.1" 200 -
+2025-10-28 09:44:55,580 - controller.controller - INFO - GeoJSON exportado: 6 pontos
+2025-10-28 09:44:55,580 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 09:44:55] "GET /api/pontos/export/geojson HTTP/1.1" 200 -
+2025-10-28 10:00:48,924 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:00:48,925 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:00:48] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:23:11,040 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 10:23:11,054 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8083
+ * Running on http://172.29.126.49:8083
+2025-10-28 10:23:11,054 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-28 10:23:11,054 - werkzeug - INFO -  * Restarting with stat
+2025-10-28 10:23:11,180 - controller.controller - INFO - Aplicação inicializada com sucesso
+2025-10-28 10:23:11,190 - werkzeug - WARNING -  * Debugger is active!
+2025-10-28 10:23:11,192 - werkzeug - INFO -  * Debugger PIN: 381-823-636
+2025-10-28 10:23:15,770 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:23:15,775 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:15] "GET / HTTP/1.1" 200 -
+2025-10-28 10:23:15,822 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:15] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:23:15,838 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:15] "GET /static/js/mapa.js HTTP/1.1" 200 -
+2025-10-28 10:23:21,405 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:23:21,406 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:21] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:23:21,406 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:23:21,407 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:21] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:23:45,306 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:23:45,317 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:23:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-28 10:24:15,951 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:24:15,960 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:15] "GET / HTTP/1.1" 200 -
+2025-10-28 10:24:15,994 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-28 10:24:16,005 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:24:16,016 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:16] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:24:16,081 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:24:16,082 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:16] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:24:16,083 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:24:16,084 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:24:16] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:25:55,505 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:25:55,506 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:25:55] "GET / HTTP/1.1" 200 -
+2025-10-28 10:25:55,544 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:25:55] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:25:55,545 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:25:55] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:25:55,587 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:25:55,588 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:25:55] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:25:55,588 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:25:55,588 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:25:55] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:26:28,102 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:26:28,102 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "GET / HTTP/1.1" 200 -
+2025-10-28 10:26:28,125 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:26:28,126 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:26:28,176 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:26:28,176 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:26:28,177 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:26:28,177 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:26:28,925 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:26:28,926 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "GET / HTTP/1.1" 200 -
+2025-10-28 10:26:28,965 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:26:28,966 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:28] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:26:29,015 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:26:29,016 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:26:29,017 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:29] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:26:29,018 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:29] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:26:42,197 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:26:42,197 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:42] "GET / HTTP/1.1" 200 -
+2025-10-28 10:26:42,227 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:26:42,229 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:42] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:26:42,276 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:26:42,277 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:26:42,277 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:42] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:26:42,278 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:26:42] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:27:19,602 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:27:19,603 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:19] "GET / HTTP/1.1" 200 -
+2025-10-28 10:27:19,650 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:19] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:27:19,652 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:19] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:27:19,717 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:27:19,718 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:27:19,718 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:19] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:27:19,719 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:19] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:27:23,975 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:27:23,976 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:23] "GET / HTTP/1.1" 200 -
+2025-10-28 10:27:24,010 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:24] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:27:24,010 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:24] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:27:24,055 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:27:24,055 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:24] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:27:24,056 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:27:24,057 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:24] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:27:33,373 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:27:33,375 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:33] "GET / HTTP/1.1" 200 -
+2025-10-28 10:27:33,413 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:33] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:27:33,415 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:33] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:27:33,452 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:27:33,452 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:27:33,453 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:33] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:27:33,454 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:33] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:27:43,280 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:27:43,281 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:43] "GET / HTTP/1.1" 200 -
+2025-10-28 10:27:43,320 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:43] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:27:43,321 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:43] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:27:43,383 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:27:43,383 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:27:43,384 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:43] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:27:43,385 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:43] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:27:44,234 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:27:44,235 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:44] "GET / HTTP/1.1" 200 -
+2025-10-28 10:27:44,260 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:27:44,261 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:44] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:27:44,311 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:27:44,312 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:44] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:27:44,312 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:27:44,313 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:27:44] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:28:03,551 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:28:03,552 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:03] "GET / HTTP/1.1" 200 -
+2025-10-28 10:28:03,579 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:03] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:28:03,580 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:03] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:28:03,623 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:28:03,624 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:03] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:28:03,624 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:28:03,625 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:03] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:28:18,081 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:28:18,082 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:18] "GET / HTTP/1.1" 200 -
+2025-10-28 10:28:18,112 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:18] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:28:18,113 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:28:18,165 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:28:18,165 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:28:18,166 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:18] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:28:18,167 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:18] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:28:38,425 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:28:38,426 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:38] "GET / HTTP/1.1" 200 -
+2025-10-28 10:28:38,459 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:38] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:28:38,460 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:28:38,508 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:28:38,508 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:28:38,509 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:28:38,510 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:28:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:29:51,195 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:29:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:29:51,204 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:29:51] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-28 10:31:35,856 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:31:35,857 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:35] "GET / HTTP/1.1" 200 -
+2025-10-28 10:31:35,891 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:35] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:31:35,898 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:35] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:31:41,060 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:31:41,060 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:41] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:31:41,064 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:31:41,066 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:41] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:31:52,137 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:31:52,138 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:52] "GET / HTTP/1.1" 200 -
+2025-10-28 10:31:52,188 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:52] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:31:52,192 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:52] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:31:52,284 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:31:52,285 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:52] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:31:52,289 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:31:52,290 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:31:52] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:32:37,389 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:32:37,390 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:37] "GET / HTTP/1.1" 200 -
+2025-10-28 10:32:37,427 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:37] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:32:37,428 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:37] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:32:37,468 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:32:37,468 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:37] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:32:37,468 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:32:37,469 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:37] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:32:38,404 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:32:38,404 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:38] "GET / HTTP/1.1" 200 -
+2025-10-28 10:32:38,429 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:32:38,433 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:38] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:32:38,502 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:32:38,502 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:32:38,502 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:38] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:32:38,503 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:32:38] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:33:06,896 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:33:06,897 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:06] "GET / HTTP/1.1" 200 -
+2025-10-28 10:33:06,938 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:06] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:33:06,939 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:06] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:33:06,981 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:33:06,982 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:06] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:33:06,983 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:33:06,984 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:06] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:33:07,749 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:33:07,750 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:07] "GET / HTTP/1.1" 200 -
+2025-10-28 10:33:07,788 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-10-28 10:33:07,792 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:07] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:33:07,822 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:33:07,823 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:33:07,823 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:07] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:33:07,824 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:07] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:33:24,053 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:33:24,054 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:24] "GET / HTTP/1.1" 200 -
+2025-10-28 10:33:24,085 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:24] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:33:24,086 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:24] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:33:24,143 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:33:24,144 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:33:24,145 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:24] "GET /api/pontos HTTP/1.1" 200 -
+2025-10-28 10:33:24,146 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:24] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:33:41,104 - controller.controller - INFO - Renderizando página do mapa
+2025-10-28 10:33:41,104 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET / HTTP/1.1" 200 -
+2025-10-28 10:33:41,143 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-10-28 10:33:41,146 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "[36mGET /static/js/mapa.js HTTP/1.1[0m" 304 -
+2025-10-28 10:33:41,191 - controller.controller - INFO - Estatísticas geradas com sucesso
+2025-10-28 10:33:41,193 - controller.controller - INFO - Listagem de pontos: 6 encontrado(s) - Filtros: categoria=None, busca=None
+2025-10-28 10:33:41,194 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET /api/estatisticas HTTP/1.1" 200 -
+2025-10-28 10:33:41,194 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2025 10:33:41] "GET /api/pontos HTTP/1.1" 200 -
